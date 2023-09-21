@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nlckmeyer&label=Profile%20views&color=0e75b6&style=flat" alt="nlckmeyer" /> </p>
 
-- 🔭 I’m currently working on ** a Wordle Game**
+- 🔭 I’m currently working on: **Wordle Game**
 
 - 🌱 I’m currently learning **advanced Python and Java**
 
