@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on: **Wordle Game**
 
-- 🌱 I’m currently learning **advanced Python and Java**
+- 🌱 I’m currently learning: **advanced Python and Java**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about: **Python**
 
 - 📫 How to reach me: **znickmeyer@gmail.com**
 
