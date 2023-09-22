@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **Wordle Game**
 
-- 🌱 I’m currently learning: **advanced Python and Java**
+- 🌱 I’m currently learning: **Advanced Python and Java**
 
 - 💬 Ask me about: **Python**
 
