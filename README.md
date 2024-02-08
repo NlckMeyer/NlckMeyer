@@ -3,7 +3,7 @@
 <h3 align="center">Studying Information Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uc35g8ktte9opkugxzl8d9x8xe42lxaul4772ko5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 📫 How to reach me:znickmeyer@gmail.com
+- 📫 How to reach me: znickmeyer@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
