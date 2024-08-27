@@ -1,12 +1,11 @@
-[![MasterHead](https://media2.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)]()
+
 <h1 align="center">Hi 👋, I'm Nick Meyer</h1>
-<h3 align="center">Studying Information Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uc35g8ktte9opkugxzl8d9x8xe42lxaul4772ko5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 📫 How to reach me: znickmeyer@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -23,7 +22,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NlckMeyer&show_icons=true&locale=en&layout=compact" alt="NlckMeyer" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NlckMeyer&show_icons=true&locale=en&layout=compact" alt="NlckMeyer" />
 </p>
