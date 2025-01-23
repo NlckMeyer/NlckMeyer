@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nick Meyer</h1>
-
+<h1 align="center">IT Infrastructure Student at the University of Minnesota</h1>
 
 
 
